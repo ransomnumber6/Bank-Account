@@ -1,7 +1,7 @@
-/*       File: IllegalWithdrawalException.java	.	........
- *      Class: ???
- * Programmer: ???
- *    Purpose: ???
+/*       File     : IllegalWithdrawalException.java	.	........
+ *      Class     : CSC205
+ *      Programmer: Trevor Ransom
+ *    
  */package bankaccount5;
 
 public class IllegalWithdrawalException 
